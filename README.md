@@ -15,7 +15,7 @@ Ever wondered why some digital platforms stand out effortlessly, while others st
 • **Tools of the Trade:** Figma, Adobe Suite, Tailwind CSS, and more. A Proven Track Record: 50+ projects delivered with measurable impact on user engagement and conversion.
 
 ## 📊 Contribution Metrics:
-
+![](https://github-readme-stats.vercel.app/api?username=Zakiulhassan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zakiulhassan&theme=vue-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakiulhassan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -28,4 +28,3 @@ Ever wondered why some digital platforms stand out effortlessly, while others st
 ---
 [![](https://visitcount.itsvg.in/api?id=Zakiulhassan&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
