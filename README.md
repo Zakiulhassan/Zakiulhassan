@@ -1,4 +1,4 @@
-![Zaki ul Hassan](https://github.com/Zakiulhassan/Zakiulhassan/blob/main/Github%20Banner%2001.png)
+![Zaki ul Hassan](https://github.com/Zakiulhassan/Zakiulhassan/blob/main/Github%20Banner.png)
 
 ## 💫 Solving Problems, Not Just Building Apps:
 Ever wondered why some digital platforms stand out effortlessly, while others struggle with clunky designs or slow performance? It’s not magic—it’s the delicate balance of user experience design and high-performance development. This balance is what I’ve been perfecting for over 5 years.<br><br>As a Google & IBM Certified UI/UX Designer and a Full Stack Developer, I’m not just building websites or apps—I’m crafting solutions. The kind that gets people hooked on your platform, from the very first interaction.
